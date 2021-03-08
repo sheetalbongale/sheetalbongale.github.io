@@ -3,6 +3,6 @@
 A budding full-stack Data Scientist/Analyst & a Semiconductor Professional with a keen interest in Python Programming & Machine Learning.
 
 ### Currently learning:
-- Deep Learrning techniuqes using Keras and TensorFlow
+- Deep Learning techniques using Keras and TensorFlow (Refering Aurelien Géron's book)
 - Time Series Forecasting
-- Semiconducotr Yield Analytics
+- Semiconductor Manufacturing Yield Analytics
